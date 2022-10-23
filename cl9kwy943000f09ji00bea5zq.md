@@ -2,10 +2,6 @@
 
 There are more than a few units to size an element using CSS. You might have wondered which one to use. let me help you choose the right one for your needs.
 
-
-![YT Thumbnails (2).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1666501457575/x20i4cWSI.png align="left")
-
-
 ## Difference Between PX, EM, REM, and %
 
 let me make it simple for you:
