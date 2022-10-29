@@ -1,4 +1,4 @@
-# What is dotenv/.env? Why and how do we use it to keep our secrets safe | Environment Variables in node.js.
+# How to Use Environment Files (.env) in Node.js | Tushar Khatri
 
 When I was learning back-end development I encountered some major problems while hosting my apps, one of these was how to upload the code to a remote repository and at the same time prevent my secrets from being exposed.
 
