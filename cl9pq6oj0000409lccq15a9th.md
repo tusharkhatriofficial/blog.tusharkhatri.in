@@ -61,7 +61,7 @@ Before doing anything in our code we have to first create a project in the [Goog
 
 ![Screenshot 2022-10-26 at 12.59.01 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1666769530319/l06od8jUl.png align="left")
 
-- fill in `https://main.google.com` in the `Authorize API's field` and click `Authorize API's`.
+- fill in `https://mail.google.com` in the `Authorize API's field` and click `Authorize API's`.
 
 ![Screenshot 2022-10-26 at 1.09.39 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1666770011781/-AQvO_rZb.png align="left")
 
